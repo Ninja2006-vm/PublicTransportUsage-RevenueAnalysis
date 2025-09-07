@@ -9,5 +9,3 @@ The goal of this project is to:
 -Practice data generation with random sampling.
 
 -Perform exploratory analysis on passenger usage & revenue.
-
--Demonstrate clean project structure suitable for GitHub.
